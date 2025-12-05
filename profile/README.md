@@ -1,4 +1,4 @@
-![UmaDB Logo](https://raw.githubusercontent.com/umadb-io/umadb/refs/heads/main/images/UmaDB-logo.png)
+![UmaDB Logo](https://raw.githubusercontent.com/umadb-io/umadb/refs/heads/main/images/UmaDB-brand-figure-torso-and-lettering.png)
 
 # What is UmaDB
 
